@@ -10,6 +10,6 @@ I came to this conclusion after performing exploratory data analysis on my every
 
 I also found the scary insights and my every day things which are killing my time.
 
-This project was started in July and being run every day.
+This project was started in July and is still run.
 
 With these insights I have developed an IoT project, which helped me to manage my time and I started new hobbies and I could attain proper work life balance now.
