@@ -1,8 +1,8 @@
 # EDA-of-my-activities
 
-I feel I am the busiest person in the world and I still try hard to maintain work life balance. I still don't remember the last time when I hit the Gym. I wanted to learn swimming this summer but couldn't do it?
+I used to feel that I am the busiest person in the world and I tried hard to maintain work life balance. I still don't remember the last time when I hit the Gym. I wanted to learn swimming this summer but couldn't do it.
 
-Am I really busy?
+Was I really busy?
 
 Well, not so...
 
